@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/TextDetection"
+        android:title="Text Detection"/>
+
+    <item android:id="@+id/TextConvertor"
+        android:title="Text Convertor"/>
+</menu>
